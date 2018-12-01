@@ -41,6 +41,7 @@ $(document).ready(function() {
 		animation: "fade",
 		directionNav: false,
 		pauseOnAction: false,
+		slideshowSpeed: 1400,
 	});
 
 	var containerPosition = $('.container').offset();
