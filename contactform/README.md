@@ -1,2 +1,0 @@
-# settechnologies
-SET Technologies website
