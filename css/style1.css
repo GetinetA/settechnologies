@@ -330,7 +330,7 @@ textarea:focus {
 		font-style: italic;
 		margin: 0;
 		padding: 0;
-		color: #1e7cbe;
+		color: #ffff;
 	}
 
 	#slider .caption .btn {
@@ -358,7 +358,7 @@ textarea:focus {
 		font-size: 16px;
 		font-style: italic;
 		margin-top: 15px;
-		color: #1e7cbe;
+		color: #ffff;
 	}
 
 	#slider .caption .btn {
